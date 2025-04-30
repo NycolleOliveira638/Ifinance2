@@ -1,8 +1,9 @@
+@import url('../style/global.css');
+
 header{
     display: flex;
     justify-content: space-evenly;
 }
-
 
 .nav-header{
     display: flex;
@@ -47,7 +48,6 @@ header{
     margin-bottom: 20px;
 }
 
-
 .btn-get{
     background-color: var(--primary-color);
     border: 0px;
@@ -55,15 +55,15 @@ header{
     padding: 15px 36px;
 }
 
-
 .btn-more{
     border: 0px;
     border-radius: 37px;
     padding: 15px 36px;
 }
 
-
-.better-conteiner{
+.article-better{
     display: flex;
     justify-content: center;
 }
+
+
