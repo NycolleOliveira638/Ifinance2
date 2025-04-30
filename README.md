@@ -35,7 +35,9 @@ Ifinance
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Nexcent
+Ifinance é Projeto na qual desenvolvi para colocar em pratica minhas habilidades em HTML e CSS. 
+
+
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -45,7 +47,7 @@ Nexcent
 ## 🎨 Layout
 
 
-![Web1](https://github.com/NycolleOliveira638/Nexcent/blob/main/src/assets/images/Thumbnail.png)
+
 
 ---
 
@@ -95,7 +97,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina um editor de
 ## 🦸 Autor
 
 Nycolle De Oliveira Pereira</a>
- <br />
+ <br/>
  
 [![Gmail Badge](https://img.shields.io/badge/-nycolleo638@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nycolleo638@gmail.com)](mailto:nycolleo638@gmail.com)
 
@@ -108,5 +110,5 @@ Nycolle De Oliveira Pereira</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Nycolle De Oliveira [Entre em contato!](https://br.linkedin.com/in/NycolleOliveiraz-)
+Feito por Nycolle De Oliveira [Entre em contato!](https://br.linkedin.com/in/NycolleOliveira-)
 
