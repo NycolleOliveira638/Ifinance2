@@ -1,6 +1,6 @@
 Ifinance
 <h1 align="center"> 
-	  🚀✅ Nexcent - Concluído ✅🚀
+	  🚀✅ Ifinance - Concluído ✅🚀
 </h1>
 
 
@@ -94,7 +94,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina um editor de
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
 Nycolle De Oliveira Pereira</a>
  <br />
  
