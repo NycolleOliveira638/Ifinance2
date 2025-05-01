@@ -1,0 +1,123 @@
+@import url('./global.css');
+
+
+body{
+    background-color: #252B42;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-header ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.financial-content{
+    padding-left: 120px;
+}
+
+.financial-conteiner h1{
+    font-size: 37px;
+    width: 240px;
+    margin-bottom: 20px;
+}
+
+.btn-member{
+    color:  #FFFFFF;
+    background-color: #23A6F0;
+     border: 0px;
+     border-radius: 5px;
+     padding: 15px 25px;
+}
+
+.login-become{
+    gap: 25px;
+}
+   
+.financial-content{
+    display: flex;
+    margin-top: 80px;
+}
+
+.assistance-content{
+    width: 509px;
+    margin-bottom: 30px;
+}
+
+.how-large{
+    width: 376px;
+    margin-bottom: 20px;
+}
+
+.btn-get{
+    color: #FFFFFF;
+    background-color: var(--primary-color);
+    border: 0px;
+    border-radius: 37px;
+    padding: 15px 36px;
+}
+
+.btn-more{
+    color: #FFFFFF;
+    background-color: #252B42;
+    border-radius: 37px;
+    border-color: #FFFFFF;
+    padding: 15px 36px;
+}
+
+.clients-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 80px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    color:  #737373;
+    width: 744px;
+    margin-left: 250px;
+    padding: 30px 20px;
+}
+
+.say-content{
+   text-align: center;
+   width: 607px;
+   padding-left: 300px;
+   
+}
+.say-content h2{
+    font-size: 40px;
+}
+
+.clients-content img{
+   width: 96px;
+}
+
+.clients-content h3{
+    font-size: 22px;
+    color: #252B42;
+}
+
+.clients-content p{
+    width: 433px;
+}
+
+.our-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.download-on{
+   
+}
